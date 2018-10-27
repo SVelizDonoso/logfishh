@@ -107,6 +107,14 @@ Para el uso básico de la herramienta para obtener un reporte HTML  y una animac
  ```sh
  python logfissh.py --file /var/log/auth.log --webm
  ```
+# Reporte HTML
+<img src="https://image.ibb.co/ek2gaq/KALI-2018-2018-10-26-22-41-50.png" >
+
+# Imagen Video Animación
+<img src="https://image.ibb.co/nbCdoA/KALI-2018-2018-10-26-22-45-56.png" >
+<img src="https://image.ibb.co/eQs01V/KALI-2018-2018-10-26-22-46-59.png" >
+<img src="https://image.ibb.co/jpkL1V/KALI-2018-2018-10-26-22-47-09.png" >
+ 
 # Advertencia
 Este software se creo SOLAMENTE para fines educativos. No soy responsable de su uso. Úselo con extrema precaución.
 
