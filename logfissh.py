@@ -30,7 +30,7 @@ def htmlheader():
 	<!doctype html>
 	<html>
 	<head>
-	<title>Logs Forensic Investigator SSH/SFTP</title>
+	<title>Logs Forensic Investigator SSH</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.1/css/bootstrap.css">
 	<link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css">
@@ -47,9 +47,6 @@ def htmlheader():
 		$(document).ready(function() {
 		    $('#example').DataTable( {
 			"lengthMenu": [[10, 25, 50, -1], [10, 25, 50, "All"]],
-			"language": {
-            			"url": "//cdn.datatables.net/plug-ins/9dcbecd42ad/i18n/Spanish.json"
-        		},
 			buttons: [
 			    'copyHtml5',
 			    'excelHtml5',
@@ -105,7 +102,7 @@ def htmlbody(tblog):
 							<tr>
 								<td>
 									<h1 class="display-4">LOGFISSH</h1>
-								 	<p class="lead">Logs Forensic Investigator SSH/SFTP</p>
+								 	<p class="lead">Logs Forensic Investigator SSH</p>
 								</td>
 							</tr>
 						</table>
@@ -146,7 +143,7 @@ def banner():
 				   \  /
 				   \  /
 				   \  /
-				   \  /  LOGFISHH 1.0 - Logs Forensic Investigator SSH/SFTP
+				   \  /       LOGFISHH 1.0 - Logs Forensic Investigator SSH
 				   \  /                            Developer :@svelizdonoso       
 				   \  /             GitHub: https://github.com/SVelizDonoso
 				    \/                              Mail:cyslabs@gmail.com        
