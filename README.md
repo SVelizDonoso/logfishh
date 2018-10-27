@@ -1,4 +1,4 @@
-# LogFishh
+# LOGFISHH - Logs Forensic Investigator SSH/SFTP
 
 			       |||      |||
 			       | |  __  | |
